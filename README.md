@@ -1,4 +1,4 @@
 # I2C_2RO+2DI_Pro
 Digital IO board (Raspberry Pi A+ formfactor).
 
-Description of the module I2C 2RO+2DO Pro - "Datasheet I2C 2RO+2DI Pro - Ver.1.01.pdf"
+Description of the module I2C 2RO+2DO Pro - "Datasheet I2C 2RO+2DI Pro - ver.1-01.pdf"
